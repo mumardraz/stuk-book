@@ -48,5 +48,8 @@ end
 # bootstrap gem
 gem 'bootstrap-sass'
 
+# adding simple form
+gem 'simple_form'
+
 
 
